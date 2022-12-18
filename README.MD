@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-pnv&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-pnv" /> </p>
 
-- 🔭 I’m currently Studying Computer Science **Blog Website**
+- 🔭 I’m currently Studying Computer Science 
 
 - 🌱 I’m currently learning **MERN**
 
