@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pinnamaraju Nikhil Varma</h1>
+<h1 align="center">Hi 👋, I'm Nikhil Varma Pinnamaraju</h1>
 <h3 align="center">A passionate Full-stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad.gif">
 
