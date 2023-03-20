@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nikhilvarma1810@gmail.com**
 
-- 📄 Here you can have my resume [https://drive.google.com/file/d/1Iok7sHK93Gqhh20CLucdpnPk7s9xTVoj/view](https://drive.google.com/file/d/1Iok7sHK93Gqhh20CLucdpnPk7s9xTVoj/view)
+- 📄 Here you can have my resume [https://docs.google.com/document/d/1G7bUoSjojH9PQor8EDFAWQo51WuNvYBt/edit?usp=drivesdk&ouid=112901846492911641208&rtpof=true&sd=true](https://drive.google.com/file/d/1Iok7sHK93Gqhh20CLucdpnPk7s9xTVoj/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
